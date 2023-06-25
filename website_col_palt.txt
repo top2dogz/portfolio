@@ -1,0 +1,6 @@
+Possible website color schemes:
+#D5CAD6 - Thistle
+#06BCC1 - Robin Egg Blue
+#FEC601 - Mikado yellow
+#251F47 - Space cadet
+#FC2F00 - Scarlet
